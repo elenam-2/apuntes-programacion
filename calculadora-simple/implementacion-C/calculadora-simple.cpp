@@ -1,4 +1,5 @@
 /* Problema #1: Calculadora simple
+fecha: 04/06/2018
 Pida al usuario 2 numeros enteros y adicional pregunte al usuario la operacion 
 aritmetica que desea realizar con los dos numeros ingresados (puede ser suma, 
 resta, multiplicacion o division), imprima la operacion utilizada y el resultado.
