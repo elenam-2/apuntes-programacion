@@ -44,8 +44,8 @@ int clave = 2;
 
 			A. int -> tipo de dato (entero)
 			B. clave -> nombre de la variable
-(opcional)  C. = -> operador de asignacion
-(opcional)  D. 2 -> valor de la variable
+			C. = -> operador de asignacion (opcional)  
+			D. 2 -> valor de la variable (opcional)  
 			E. ; -> siempre al final va el punto y coma
 
 El operador = (asignacion) se usa para asignar un valor a una variable.
